@@ -1,0 +1,551 @@
+{
+    "name": "Twilight Blocks",
+    "version": "1.0.0",
+    "info": "Twilight Blocks Drop Events",
+    "random_events": [
+        {
+            "id": 1,
+            "drop_items": [
+                {
+                    "id": "twilightforest:aurora_block",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 64
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "twilightforest:aurora_pillar",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 64
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "drop_items": [
+                {
+                    "id": "twilightforest:auroralized_glass",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 64
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "drop_items": [
+                {
+                    "id": "twilightforest:blue_castle_door",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 16
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "twilightforest:pink_castle_door",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 16
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "twilightforest:violet_castle_door",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 16
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "twilightforest:yellow_castle_door",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 16
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "drop_items": [
+                {
+                    "id": "twilightforest:blue_castle_rune_brick",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 32
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "drop_items": [
+                {
+                    "id": "twilightforest:chiseled_canopy_bookshelf",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 32
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "drop_items": [
+                {
+                    "id": "twilightforest:coronation_carpet",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 64
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "drop_items": [
+                {
+                    "id": "twilightforest:firefly",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 64
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "drop_items": [
+                {
+                    "id": "twilightforest:huge_lily_pad",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 16
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "twilightforest:huge_water_lily",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 4
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "drop_items": [
+                {
+                    "id": "twilightforest:huge_stalk",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 64
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "drop_items": [
+                {
+                    "id": "twilightforest:ironwood_block",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 16
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "drop_items": [
+                {
+                    "id": "twilightforest:knightmetal_block",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 16
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "drop_items": [
+                {
+                    "id": "twilightforest:liveroot_block",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 64
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "drop_items": [
+                {
+                    "id": "twilightforest:mayapple",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 64
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "drop_items": [
+                {
+                    "id": "twilightforest:mushgloom",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 64
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "drop_items": [
+                {
+                    "id": "twilightforest:rainbow_oak_sapling",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 64
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "drop_items": [
+                {
+                    "id": "twilightforest:fluffy_cloud",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 64
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "twilightforest:rainy_cloud",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 32
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "twilightforest:snowy_cloud",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 32
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "twilightforest:wispy_cloud",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 32
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "drop_items": [
+                {
+                    "id": "twilightforest:uberous_soil",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 64
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "drop_items": [
+                {
+                    "id": "twilightforest:uncrafting_table",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 4
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "drop_items": [
+                {
+                    "id": "twilightforest:canopy_log",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 16
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "twilightforest:canopy_planks",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 64
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "drop_items": [
+                {
+                    "id": "twilightforest:cinder_log",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 16
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "twilightforest:cinder_wood",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 64
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "drop_items": [
+                {
+                    "id": "twilightforest:dark_log",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 16
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "twilightforest:dark_planks",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 64
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "drop_items": [
+                {
+                    "id": "twilightforest:mining_log",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 16
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "twilightforest:mining_planks",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 64
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "twilightforest:mining_log_core",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 1
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "drop_items": [
+                {
+                    "id": "twilightforest:sorting_log",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 16
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "twilightforest:sorting_planks",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 64
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "twilightforest:sorting_log_core",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 1
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "drop_items": [
+                {
+                    "id": "twilightforest:time_log",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 16
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "twilightforest:time_planks",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 64
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "twilightforest:time_log_core",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 1
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "drop_items": [
+                {
+                    "id": "twilightforest:transformation_log",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 16
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "twilightforest:transformation_planks",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 64
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "twilightforest:transformation_log_core",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 1
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "drop_items": [
+                {
+                    "id": "twilightforest:twilight_oak_log",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 16
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "twilightforest:twilight_oak_planks",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 64
+                    },
+                    "pos_src": 0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,165 @@
+{
+    "name": "Twilight Special",
+    "version": "1.0.0",
+    "info": "Twilight Special Events",
+    "random_events": [
+        {
+            "id": 1,
+            "create_explosions": [
+                {
+                    "power": 8,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "create_explosions": [
+                {
+                    "power": 16,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "place_blocks": [
+                {
+                    "id": "minecraft:redstone_block",
+                    "pos_src": 0
+                }
+            ],
+            "fall_blocks": [
+                {
+                    "id": "minecraft:tnt",
+                    "pos_src": 0,
+                    "offset": {
+                        "x": 0,
+                        "y": 8,
+                        "z": 0
+                    }
+                },
+                {
+                    "id": "minecraft:tnt",
+                    "pos_src": 0,
+                    "offset": {
+                        "x": 0,
+                        "y": 8,
+                        "z": 0
+                    }
+                },
+                {
+                    "id": "minecraft:tnt",
+                    "pos_src": 0,
+                    "offset": {
+                        "x": 0,
+                        "y": 8,
+                        "z": 0
+                    }
+                },
+                {
+                    "id": "minecraft:tnt",
+                    "pos_src": 0,
+                    "offset": {
+                        "x": 0,
+                        "y": 8,
+                        "z": 0
+                    }
+                },
+                {
+                    "id": "minecraft:tnt",
+                    "pos_src": 0,
+                    "offset": {
+                        "x": 0,
+                        "y": 8,
+                        "z": 0
+                    }
+                },
+                {
+                    "id": "minecraft:tnt",
+                    "pos_src": 0,
+                    "offset": {
+                        "x": 0,
+                        "y": 8,
+                        "z": 0
+                    }
+                },
+                {
+                    "id": "minecraft:tnt",
+                    "pos_src": 0,
+                    "offset": {
+                        "x": 0,
+                        "y": 8,
+                        "z": 0
+                    }
+                },
+                {
+                    "id": "minecraft:tnt",
+                    "pos_src": 0,
+                    "offset": {
+                        "x": 0,
+                        "y": 8,
+                        "z": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "load_structures": [
+                {
+                    "id": "longzi",
+                    "pos_src": 1,
+                    "offset": {
+                        "x": -1,
+                        "y": -1,
+                        "z": -1
+                    }
+                }
+            ],
+            "fall_blocks": [
+                {
+                    "id": "minecraft:anvil",
+                    "pos_src": 1,
+                    "offset": {
+                        "x": 0,
+                        "y": 30,
+                        "z": 0
+                    }
+                },
+                {
+                    "id": "minecraft:anvil",
+                    "pos_src": 1,
+                    "offset": {
+                        "x": 0,
+                        "y": 31,
+                        "z": 0
+                    }
+                },
+                {
+                    "id": "minecraft:anvil",
+                    "pos_src": 1,
+                    "offset": {
+                        "x": 0,
+                        "y": 32,
+                        "z": 0
+                    }
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "drop_items": [
+                {
+                    "id": "minecraft:cobblestone",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 16,
+                        "max": 64
+                    },
+                    "pos_src": 0
+                }
+            ]
+        }
+    ]
+}

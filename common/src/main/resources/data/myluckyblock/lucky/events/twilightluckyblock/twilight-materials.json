@@ -1,0 +1,748 @@
+{
+    "name": "Twilight Materials",
+    "version": "1.0.0",
+    "info": "Twilight Materials Drop Events",
+    "random_events": [
+        {
+            "id": 1,
+            "drop_items": [
+                {
+                    "id": "twilightforest:alpha_yeti_banner_pattern",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 1
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "twilightforest:hydra_banner_pattern",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 1
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "twilightforest:knight_phantom_banner_pattern",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 1
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "twilightforest:lich_banner_pattern",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 1
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "twilightforest:minoshroom_banner_pattern",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 1
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "twilightforest:naga_banner_pattern",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 1
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "twilightforest:quest_ram_banner_pattern",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 1
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "twilightforest:snow_queen_banner_pattern",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 1
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "twilightforest:ur_ghast_banner_pattern",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 1
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "drop_items": [
+                {
+                    "id": "twilightforest:alpha_yeti_fur",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 32
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "twilightforest:arctic_fur",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 64
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "drop_items": [
+                {
+                    "id": "twilightforest:armor_shard_cluster",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 32
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "twilightforest:armor_shard",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 64
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "drop_items": [
+                {
+                    "id": "twilightforest:borer_essence",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 64
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "drop_items": [
+                {
+                    "id": "twilightforest:carminite",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 32
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "drop_items": [
+                {
+                    "id": "twilightforest:crown_splinter",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 32
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "drop_items": [
+                {
+                    "id": "twilightforest:fiery_blood",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 32
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "drop_items": [
+                {
+                    "id": "twilightforest:fiery_ingot",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 32
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "drop_items": [
+                {
+                    "id": "twilightforest:fiery_tears",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 32
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "drop_items": [
+                {
+                    "id": "twilightforest:four_leaf_clover",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 64
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "drop_items": [
+                {
+                    "id": "twilightforest:greater_potion_flask",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 8
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "twilightforest:brittle_potion_flask",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 16
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "drop_items": [
+                {
+                    "id": "twilightforest:ironwood_ingot",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 32
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "drop_items": [
+                {
+                    "id": "twilightforest:knightmetal_ring",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 32
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "drop_items": [
+                {
+                    "id": "twilightforest:knightmetal_ingot",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 32
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "drop_items": [
+                {
+                    "id": "twilightforest:liveroot",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 32
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "drop_items": [
+                {
+                    "id": "twilightforest:magic_beans",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 4
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "drop_items": [
+                {
+                    "id": "twilightforest:magic_map",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "drop_items": [
+                {
+                    "id": "twilightforest:magic_map_focus",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "drop_items": [
+                {
+                    "id": "twilightforest:magic_painting",
+                    "use_random": false,
+                    "num": 16,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 50,
+            "drop_items": [
+                {
+                    "id": "twilightforest:maze_map",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 51,
+            "drop_items": [
+                {
+                    "id": "twilightforest:maze_map_focus",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 52,
+            "drop_items": [
+                {
+                    "id": "twilightforest:naga_scale",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 32
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 53,
+            "drop_items": [
+                {
+                    "id": "twilightforest:music_disc_findings",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 1
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "twilightforest:music_disc_home",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 1
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "twilightforest:music_disc_maker",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 1
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "twilightforest:music_disc_motion",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 1
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "twilightforest:music_disc_radiance",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 1
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "twilightforest:music_disc_steps",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 1
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "twilightforest:music_disc_superstitious",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 1
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "twilightforest:music_disc_thread",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 1
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "twilightforest:music_disc_wayfarer",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 1
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 54,
+            "drop_items": [
+                {
+                    "id": "twilightforest:raw_ironwood",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 32
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 55,
+            "drop_items": [
+                {
+                    "id": "twilightforest:steeleaf_ingot",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 32
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 56,
+            "drop_items": [
+                {
+                    "id": "twilightforest:transformation_powder",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 32
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 57,
+            "drop_items": [
+                {
+                    "id": "twilightforest:wrought_iron_bar",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 32
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 58,
+            "drop_items": [
+                {
+                    "id": "twilightforest:ore_map",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 59,
+            "drop_items": [
+                {
+                    "id": "twilightforest:raven_feather",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 32
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 60,
+            "drop_items": [
+                {
+                    "id": "twilightforest:torchberries",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 32
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 61,
+            "drop_items": [
+                {
+                    "id": "twilightforest:canopy_boat",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 1
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "twilightforest:dark_boat",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 1
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "twilightforest:mangrove_boat",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 1
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "twilightforest:mining_boat",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 1
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "twilightforest:sorting_boat",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 1
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "twilightforest:time_boat",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 1
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "twilightforest:transformation_boat",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 1
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "twilightforest:twilight_oak_boat",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 1
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 62,
+            "drop_items": [
+                {
+                    "id": "twilightforest:canopy_chest_boat",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 1
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "twilightforest:dark_chest_boat",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 1
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "twilightforest:mangrove_chest_boat",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 1
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "twilightforest:mining_chest_boat",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 1
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "twilightforest:sorting_chest_boat",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 1
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "twilightforest:time_chest_boat",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 1
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "twilightforest:transformation_chest_boat",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 1
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "twilightforest:twilight_oak_chest_boat",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 1
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 63,
+            "drop_items": [
+                {
+                    "id": "twilightforest:red_thread",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 32
+                    },
+                    "pos_src": 0
+                }
+            ]
+        }
+    ]
+}

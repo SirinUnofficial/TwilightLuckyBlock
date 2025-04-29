@@ -1,0 +1,128 @@
+{
+    "name": "Twilight Food",
+    "version": "1.0.0",
+    "info": "Twilight Food Drop Events",
+    "random_events": [
+        {
+            "id": 1,
+            "drop_items": [
+                {
+                    "id": "twilightforest:boarkchop",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 32
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "twilightforest:raw_venison",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 32
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "drop_items": [
+                {
+                    "id": "twilightforest:raw_meef",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 32
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "drop_items": [
+                {
+                    "id": "twilightforest:maze_wafer",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 32
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "drop_items": [
+                {
+                    "id": "twilightforest:cooked_meef",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 32
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "drop_items": [
+                {
+                    "id": "twilightforest:cooked_venison",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 32
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "drop_items": [
+                {
+                    "id": "twilightforest:hydra_chop",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 16
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "drop_items": [
+                {
+                    "id": "twilightforest:meef_stroganoff",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 8
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "drop_items": [
+                {
+                    "id": "twilightforest:experiment_115",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 32
+                    },
+                    "pos_src": 0
+                }
+            ]
+        }
+    ]
+}

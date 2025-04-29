@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/cube_all",
+    "textures": {
+        "all": "twilightluckyblock:block/twilight_lucky_block"
+    }
+}

@@ -1,0 +1,681 @@
+{
+    "name": "Twilight Entities",
+    "version": "1.0.0",
+    "info": "Twilight Entities Events",
+    "random_events": [
+        {
+            "id": 1,
+            "spawn_mobs": [
+                {
+                    "id": "twilightforest:adherent",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 3
+                    }
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "spawn_mobs": [
+                {
+                    "id": "twilightforest:alpha_yeti",
+                    "use_random": false,
+                    "num": 1
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "spawn_mobs": [
+                {
+                    "id": "twilightforest:armored_giant",
+                    "use_random": false,
+                    "num": 1
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "spawn_mobs": [
+                {
+                    "id": "twilightforest:bighorn_sheep",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 5
+                    }
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "spawn_mobs": [
+                {
+                    "id": "twilightforest:block_and_chain_goblin",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 3
+                    }
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "spawn_mobs": [
+                {
+                    "id": "twilightforest:boar",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 5
+                    }
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "spawn_mobs": [
+                {
+                    "id": "twilightforest:carminite_broodling",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 3
+                    }
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "spawn_mobs": [
+                {
+                    "id": "twilightforest:carminite_ghastguard",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 3
+                    }
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "spawn_mobs": [
+                {
+                    "id": "twilightforest:carminite_ghastling",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 3
+                    }
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "spawn_mobs": [
+                {
+                    "id": "twilightforest:carminite_golem",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 3
+                    }
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "spawn_mobs": [
+                {
+                    "id": "twilightforest:deer",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 5
+                    }
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "spawn_mobs": [
+                {
+                    "id": "twilightforest:dwarf_rabbit",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 5
+                    }
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "spawn_mobs": [
+                {
+                    "id": "twilightforest:fire_beetle",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 3
+                    }
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "spawn_mobs": [
+                {
+                    "id": "twilightforest:giant_miner",
+                    "use_random": false,
+                    "num": 1
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "spawn_mobs": [
+                {
+                    "id": "twilightforest:hedge_spider",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 3
+                    }
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "spawn_mobs": [
+                {
+                    "id": "twilightforest:helmet_crab",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 3
+                    }
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "spawn_mobs": [
+                {
+                    "id": "twilightforest:hostile_wolf",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 3
+                    }
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "spawn_mobs": [
+                {
+                    "id": "twilightforest:hydra",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 3
+                    }
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "spawn_mobs": [
+                {
+                    "id": "twilightforest:ice_crystal",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 3
+                    }
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "spawn_mobs": [
+                {
+                    "id": "twilightforest:king_spider",
+                    "use_random": false,
+                    "num": 1
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "spawn_mobs": [
+                {
+                    "id": "twilightforest:knight_phantom",
+                    "use_random": false,
+                    "num": 1
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "spawn_mobs": [
+                {
+                    "id": "twilightforest:kobold",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 3
+                    }
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "spawn_mobs": [
+                {
+                    "id": "twilightforest:lich",
+                    "use_random": false,
+                    "num": 1
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "spawn_mobs": [
+                {
+                    "id": "twilightforest:lower_goblin_knight",
+                    "use_random": false,
+                    "num": 1
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "spawn_mobs": [
+                {
+                    "id": "twilightforest:maze_slime",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 3
+                    }
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "spawn_mobs": [
+                {
+                    "id": "twilightforest:minoshroom",
+                    "use_random": false,
+                    "num": 1
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "spawn_mobs": [
+                {
+                    "id": "twilightforest:minotaur",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 3
+                    }
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "spawn_mobs": [
+                {
+                    "id": "twilightforest:mist_wolf",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 3
+                    }
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "spawn_mobs": [
+                {
+                    "id": "twilightforest:mosquito_swarm",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 10
+                    }
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "spawn_mobs": [
+                {
+                    "id": "twilightforest:naga",
+                    "use_random": false,
+                    "num": 1
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "spawn_mobs": [
+                {
+                    "id": "twilightforest:penguin",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 5
+                    }
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "spawn_mobs": [
+                {
+                    "id": "twilightforest:pinch_beetle",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 3
+                    }
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "spawn_mobs": [
+                {
+                    "id": "twilightforest:quest_ram",
+                    "use_random": false,
+                    "num": 1
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "spawn_mobs": [
+                {
+                    "id": "twilightforest:raven",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 5
+                    }
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "spawn_mobs": [
+                {
+                    "id": "twilightforest:redcap",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 3
+                    }
+                },
+                {
+                    "id": "twilightforest:redcap_sapper",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 3
+                    }
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "spawn_mobs": [
+                {
+                    "id": "twilightforest:redcap_sapper",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 8
+                    }
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "spawn_mobs": [
+                {
+                    "id": "twilightforest:rising_zombie",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 5
+                    }
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "spawn_mobs": [
+                {
+                    "id": "twilightforest:roving_cube",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 3
+                    }
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "spawn_mobs": [
+                {
+                    "id": "twilightforest:skeleton_druid",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 3
+                    }
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "spawn_mobs": [
+                {
+                    "id": "twilightforest:slime_beetle",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 3
+                    }
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "spawn_mobs": [
+                {
+                    "id": "twilightforest:snow_guardian",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 3
+                    }
+                }
+            ]
+        },
+        {
+            "id": 42,
+            "spawn_mobs": [
+                {
+                    "id": "twilightforest:snow_queen",
+                    "use_random": false,
+                    "num": 1
+                }
+            ]
+        },
+        {
+            "id": 43,
+            "spawn_mobs": [
+                {
+                    "id": "twilightforest:squirrel",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 5
+                    }
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "spawn_mobs": [
+                {
+                    "id": "twilightforest:stable_ice_core",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 3
+                    }
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "spawn_mobs": [
+                {
+                    "id": "twilightforest:swarm_spider",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 8
+                    }
+                }
+            ]
+        },
+        {
+            "id": 46,
+            "spawn_mobs": [
+                {
+                    "id": "twilightforest:tiny_bird",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 5
+                    }
+                }
+            ]
+        },
+        {
+            "id": 47,
+            "spawn_mobs": [
+                {
+                    "id": "twilightforest:towerwood_borer",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 8
+                    }
+                }
+            ]
+        },
+        {
+            "id": 48,
+            "spawn_mobs": [
+                {
+                    "id": "twilightforest:troll",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 3
+                    }
+                }
+            ]
+        },
+        {
+            "id": 49,
+            "spawn_mobs": [
+                {
+                    "id": "twilightforest:unstable_ice_core",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 3
+                    }
+                }
+            ]
+        },
+        {
+            "id": 50,
+            "spawn_mobs": [
+                {
+                    "id": "twilightforest:upper_goblin_knight",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 3
+                    }
+                }
+            ]
+        },
+        {
+            "id": 51,
+            "spawn_mobs": [
+                {
+                    "id": "twilightforest:ur_ghast",
+                    "use_random": false,
+                    "num": 1
+                }
+            ]
+        },
+        {
+            "id": 52,
+            "spawn_mobs": [
+                {
+                    "id": "twilightforest:winter_wolf",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 3
+                    }
+                }
+            ]
+        },
+        {
+            "id": 53,
+            "spawn_mobs": [
+                {
+                    "id": "twilightforest:wraith",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 3
+                    }
+                }
+            ]
+        },
+        {
+            "id": 54,
+            "spawn_mobs": [
+                {
+                    "id": "twilightforest:yeti",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 3
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,316 @@
+{
+    "name": "Twilight Blocks",
+    "version": "1.0.0",
+    "info": "Twilight Blocks Placement Events",
+    "random_events": [
+        {
+            "id": 1,
+            "place_blocks": [
+                {
+                    "id": "minecraft:water",
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "place_blocks": [
+                {
+                    "id": "minecraft:lava",
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "place_blocks": [
+                {
+                    "id": "minecraft:bedrock",
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "place_blocks": [
+                {
+                    "id": "myluckyblock:my_lucky_block",
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "place_blocks": [
+                {
+                    "id": "twilightluckyblock:twilight_lucky_block",
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "fall_blocks": [
+                {
+                    "id": "twilightforest:arctic_fur_block",
+                    "offset": {
+                        "y": 8
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "place_blocks": [
+                {
+                    "id": "twilightforest:keepsake_casket",
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "fall_blocks": [
+                {
+                    "id": "twilightforest:carminite_block",
+                    "offset": {
+                        "y": 8
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "place_blocks": [
+                {
+                    "id": "twilightforest:cicada",
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "place_blocks": [
+                {
+                    "id": "twilightforest:cicada_jar",
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "place_blocks": [
+                {
+                    "id": "twilightforest:creeper_skull_candle",
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "place_blocks": [
+                {
+                    "id": "twilightforest:fake_diamond",
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "place_blocks": [
+                {
+                    "id": "twilightforest:fake_gold",
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "fall_blocks": [
+                {
+                    "id": "twilightforest:fiery_block",
+                    "offset": {
+                        "y": 8
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "place_blocks": [
+                {
+                    "id": "twilightforest:firefly",
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "fall_blocks": [
+                {
+                    "id": "twilightforest:firefly_jar",
+                    "offset": {
+                        "y": 8
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "fall_blocks": [
+                {
+                    "id": "twilightforest:firefly_particle_spawner",
+                    "offset": {
+                        "y": 8
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "fall_blocks": [
+                {
+                    "id": "twilightforest:knightmetal_block",
+                    "offset": {
+                        "y": 8
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "place_blocks": [
+                {
+                    "id": "twilightforest:moonworm",
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "place_blocks": [
+                {
+                    "id": "twilightforest:player_skull_candle",
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "place_blocks": [
+                {
+                    "id": "twilightforest:potted_thorn",
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "place_blocks": [
+                {
+                    "id": "twilightforest:reactor_debris",
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "place_blocks": [
+                {
+                    "id": "twilightforest:skeleton_skull_candle",
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "place_blocks": [
+                {
+                    "id": "twilightforest:skull_chest",
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "place_blocks": [
+                {
+                    "id": "twilightforest:sinister_spawner",
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "fall_blocks": [
+                {
+                    "id": "twilightforest:steeleaf_block",
+                    "offset": {
+                        "y": 8
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "place_blocks": [
+                {
+                    "id": "twilightforest:stronghold_shield",
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "place_blocks": [
+                {
+                    "id": "twilightforest:uncrafting_table",
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "place_blocks": [
+                {
+                    "id": "twilightforest:zombie_skull_candle",
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "place_blocks": [
+                {
+                    "id": "twilightforest:piglin_skull_candle",
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "place_blocks": [
+                {
+                    "id": "twilightforest:time_log_core",
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "place_blocks": [
+                {
+                    "id": "twilightforest:wither_skeleton_skull_candle",
+                    "pos_src": 0
+                }
+            ]
+        }
+    ]
+}

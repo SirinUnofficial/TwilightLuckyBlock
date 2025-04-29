@@ -1,0 +1,106 @@
+{
+    "name": "Twilight Trophies",
+    "version": "1.0.0",
+    "info": "Twilight Trophies Drop Events",
+    "random_events": [
+        {
+            "id": 1,
+            "drop_items": [
+                {
+                    "id": "twilightforest:alpha_yeti_trophy",
+                    "use_random": true,
+                    "num": 1,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "drop_items": [
+                {
+                    "id": "twilightforest:hydra_trophy",
+                    "use_random": true,
+                    "num": 1,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "drop_items": [
+                {
+                    "id": "twilightforest:knight_phantom_trophy",
+                    "use_random": true,
+                    "num": 1,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "drop_items": [
+                {
+                    "id": "twilightforest:lich_trophy",
+                    "use_random": true,
+                    "num": 1,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "drop_items": [
+                {
+                    "id": "twilightforest:minoshroom_trophy",
+                    "use_random": true,
+                    "num": 1,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "drop_items": [
+                {
+                    "id": "twilightforest:naga_trophy",
+                    "use_random": true,
+                    "num": 1,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "drop_items": [
+                {
+                    "id": "twilightforest:quest_ram_trophy",
+                    "use_random": true,
+                    "num": 1,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "drop_items": [
+                {
+                    "id": "twilightforest:snow_queen_trophy",
+                    "use_random": true,
+                    "num": 1,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "drop_items": [
+                {
+                    "id": "twilightforest:ur_ghast_trophy",
+                    "use_random": true,
+                    "num": 1,
+                    "pos_src": 0
+                }
+            ]
+        }
+    ]
+}

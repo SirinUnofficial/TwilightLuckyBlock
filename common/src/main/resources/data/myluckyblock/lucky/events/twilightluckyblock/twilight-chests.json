@@ -1,0 +1,407 @@
+{
+    "name": "Twilight Chests",
+    "version": "1.0.0",
+    "info": "Twilight Loot Chests Events",
+    "random_events": [
+        {
+            "id": 1,
+            "place_chests": [
+                {
+                    "id": "twilightforest:chests/basement",
+                    "type": 0,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "place_chests": [
+                {
+                    "id": "twilightforest:chests/casket_loot",
+                    "type": 0,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "place_chests": [
+                {
+                    "id": "twilightforest:chests/hut_junk",
+                    "type": 0,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "place_chests": [
+                {
+                    "id": "twilightforest:chests/just_bones",
+                    "type": 0,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "place_chests": [
+                {
+                    "id": "twilightforest:chests/suspicious_stew",
+                    "type": 0,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "place_chests": [
+                {
+                    "id": "twilightforest:chests/tower_enchanting",
+                    "type": 0,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "place_chests": [
+                {
+                    "id": "twilightforest:chests/suspicious_stew",
+                    "type": 0,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "place_chests": [
+                {
+                    "id": "twilightforest:chests/tower_foyer",
+                    "type": 0,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "place_chests": [
+                {
+                    "id": "twilightforest:chests/tower_grave_lower",
+                    "type": 0,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "place_chests": [
+                {
+                    "id": "twilightforest:chests/tower_grave_upper",
+                    "type": 0,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "place_chests": [
+                {
+                    "id": "twilightforest:chests/tower_library",
+                    "type": 0,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "place_chests": [
+                {
+                    "id": "twilightforest:chests/tower_potion",
+                    "type": 0,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "place_chests": [
+                {
+                    "id": "twilightforest:chests/tower_room",
+                    "type": 0,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "place_chests": [
+                {
+                    "id": "twilightforest:aurora_cache",
+                    "type": 0,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "place_chests": [
+                {
+                    "id": "twilightforest:aurora_room",
+                    "type": 0,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "place_chests": [
+                {
+                    "id": "twilightforest:darktower_boss",
+                    "type": 0,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "place_chests": [
+                {
+                    "id": "twilightforest:darktower_cache",
+                    "type": 0,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "place_chests": [
+                {
+                    "id": "twilightforest:darktower_key",
+                    "type": 0,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "place_chests": [
+                {
+                    "id": "twilightforest:fallen_trunk_loot",
+                    "type": 0,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "place_chests": [
+                {
+                    "id": "twilightforest:fancy_well",
+                    "type": 0,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "place_chests": [
+                {
+                    "id": "twilightforest:foundation_basement",
+                    "type": 0,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "place_chests": [
+                {
+                    "id": "twilightforest:graveyard",
+                    "type": 0,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "place_chests": [
+                {
+                    "id": "twilightforest:hedge_cloth",
+                    "type": 0,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "place_chests": [
+                {
+                    "id": "twilightforest:hedge_maze",
+                    "type": 0,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "place_chests": [
+                {
+                    "id": "twilightforest:hill_1",
+                    "type": 0,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "place_chests": [
+                {
+                    "id": "twilightforest:hill_2",
+                    "type": 0,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "place_chests": [
+                {
+                    "id": "twilightforest:hill_3",
+                    "type": 0,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "place_chests": [
+                {
+                    "id": "twilightforest:labyrinth_dead_end",
+                    "type": 0,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "place_chests": [
+                {
+                    "id": "twilightforest:labyrinth_room",
+                    "type": 0,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "place_chests": [
+                {
+                    "id": "twilightforest:labyrinth_vault",
+                    "type": 0,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "place_chests": [
+                {
+                    "id": "twilightforest:labyrinth_vault_jackpot",
+                    "type": 0,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "place_chests": [
+                {
+                    "id": "twilightforest:quest_grove_dropper",
+                    "type": 0,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "place_chests": [
+                {
+                    "id": "twilightforest:stronghold_cache",
+                    "type": 0,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "place_chests": [
+                {
+                    "id": "twilightforest:stronghold_room",
+                    "type": 0,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "place_chests": [
+                {
+                    "id": "twilightforest:tree_cache",
+                    "type": 0,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "place_chests": [
+                {
+                    "id": "twilightforest:troll_garden",
+                    "type": 0,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "place_chests": [
+                {
+                    "id": "twilightforest:troll_vault",
+                    "type": 0,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "place_chests": [
+                {
+                    "id": "twilightforest:troll_vault_with_lamp",
+                    "type": 0,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "place_chests": [
+                {
+                    "id": "twilightforest:useless",
+                    "type": 0,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "place_chests": [
+                {
+                    "id": "twilightforest:well",
+                    "type": 0,
+                    "pos_src": 0
+                }
+            ]
+        }
+    ]
+}

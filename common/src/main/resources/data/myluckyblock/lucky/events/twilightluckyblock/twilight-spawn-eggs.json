@@ -1,0 +1,602 @@
+{
+    "name": "Twilight Spawn Eggs",
+    "version": "1.0.0",
+    "info": "Twilight Spawn Eggs Drop Events",
+    "random_events": [
+        {
+            "id": 1,
+            "drop_items": [
+                {
+                    "id": "twilightforest:adherent_spawn_egg",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 4
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "drop_items": [
+                {
+                    "id": "twilightforest:alpha_yeti_spawn_egg",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "drop_items": [
+                {
+                    "id": "twilightforest:armored_giant_spawn_egg",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 2
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "drop_items": [
+                {
+                    "id": "twilightforest:bighorn_sheep_spawn_egg",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 8
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "twilightforest:boar_spawn_egg",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 8
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "twilightforest:deer_spawn_egg",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 8
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "twilightforest:dwarf_rabbit_spawn_egg",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 8
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "twilightforest:squirrel_spawn_egg",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 8
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "twilightforest:tiny_bird_spawn_egg",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 8
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "drop_items": [
+                {
+                    "id": "twilightforest:block_and_chain_goblin_spawn_egg",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 4
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "drop_items": [
+                {
+                    "id": "twilightforest:carminite_broodling_spawn_egg",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 2
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "twilightforest:carminite_ghastguard_spawn_egg",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 2
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "twilightforest:carminite_ghastling_spawn_egg",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 2
+                    },
+                    "pos_src": 0
+                },
+                {
+                    "id": "twilightforest:carminite_golem_spawn_egg",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 0,
+                        "max": 2
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "drop_items": [
+                {
+                    "id": "twilightforest:death_tome_spawn_egg",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 4
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "drop_items": [
+                {
+                    "id": "twilightforest:giant_miner_spawn_egg",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 2
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "drop_items": [
+                {
+                    "id": "twilightforest:harbinger_cube_spawn_egg",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 4
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "drop_items": [
+                {
+                    "id": "twilightforest:hedge_spider_spawn_egg",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 4
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "drop_items": [
+                {
+                    "id": "twilightforest:helmet_crab_spawn_egg",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 4
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "drop_items": [
+                {
+                    "id": "twilightforest:hostile_wolf_spawn_egg",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 4
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "drop_items": [
+                {
+                    "id": "twilightforest:ice_crystal_spawn_egg",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 4
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "drop_items": [
+                {
+                    "id": "twilightforest:king_spider_spawn_egg",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 2
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "drop_items": [
+                {
+                    "id": "twilightforest:kobold_spawn_egg",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 4
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "drop_items": [
+                {
+                    "id": "twilightforest:lower_goblin_knight_spawn_egg",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 4
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "drop_items": [
+                {
+                    "id": "twilightforest:maze_slime_spawn_egg",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 4
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "drop_items": [
+                {
+                    "id": "twilightforest:minoshroom_spawn_egg",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "drop_items": [
+                {
+                    "id": "twilightforest:minotaur_spawn_egg",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 4
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "drop_items": [
+                {
+                    "id": "twilightforest:mist_wolf_spawn_egg",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 4
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "drop_items": [
+                {
+                    "id": "twilightforest:mosquito_swarm_spawn_egg",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 4
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "drop_items": [
+                {
+                    "id": "twilightforest:penguin_spawn_egg",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 4
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "drop_items": [
+                {
+                    "id": "twilightforest:pinch_beetle_spawn_egg",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 4
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "drop_items": [
+                {
+                    "id": "twilightforest:quest_ram_spawn_egg",
+                    "use_random": false,
+                    "num": 1,
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "drop_items": [
+                {
+                    "id": "twilightforest:raven_spawn_egg",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 4
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "drop_items": [
+                {
+                    "id": "twilightforest:redcap_sapper_spawn_egg",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 4
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 27,
+            "drop_items": [
+                {
+                    "id": "twilightforest:redcap_spawn_egg",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 4
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "drop_items": [
+                {
+                    "id": "twilightforest:skeleton_druid_spawn_egg",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 4
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "drop_items": [
+                {
+                    "id": "twilightforest:slime_beetle_spawn_egg",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 4
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "drop_items": [
+                {
+                    "id": "twilightforest:snow_guardian_spawn_egg",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 4
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "drop_items": [
+                {
+                    "id": "twilightforest:stable_ice_core_spawn_egg",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 4
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "drop_items": [
+                {
+                    "id": "twilightforest:swarm_spider_spawn_egg",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 4
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "drop_items": [
+                {
+                    "id": "twilightforest:towerwood_borer_spawn_egg",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 4
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "drop_items": [
+                {
+                    "id": "twilightforest:troll_spawn_egg",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 4
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "drop_items": [
+                {
+                    "id": "twilightforest:unstable_ice_core_spawn_egg",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 4
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "drop_items": [
+                {
+                    "id": "twilightforest:winter_wolf_spawn_egg",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 4
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "drop_items": [
+                {
+                    "id": "twilightforest:wraith_spawn_egg",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 4
+                    },
+                    "pos_src": 0
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "drop_items": [
+                {
+                    "id": "twilightforest:yeti_spawn_egg",
+                    "use_random": true,
+                    "random_num": {
+                        "min": 1,
+                        "max": 4
+                    },
+                    "pos_src": 0
+                }
+            ]
+        }
+    ]
+}
