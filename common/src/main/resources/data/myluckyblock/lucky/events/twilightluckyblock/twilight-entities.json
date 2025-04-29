@@ -220,11 +220,8 @@
             "spawn_mobs": [
                 {
                     "id": "twilightforest:hydra",
-                    "use_random": true,
-                    "random_num": {
-                        "min": 1,
-                        "max": 3
-                    }
+                    "use_random": false,
+                    "num": 1
                 }
             ]
         },

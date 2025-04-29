@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "redstone",
+    "ingredients": [
+        {
+            "item": "twilightforest:raven_feather"
+        },
+        {
+            "item": "myluckyblock:my_lucky_block"
+        }
+    ],
+    "result": {
+        "count": 1,
+        "id": "twilightluckyblock:twilight_lucky_block"
+    }
+}
